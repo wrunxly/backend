@@ -1,0 +1,16 @@
+.idea/
+env/
+.env
+.env.docker.local
+_pycache_/
+media/
+/logs/django.log
+*.pyc
+#docker-compose.yml
+config/local_settings.py
+*.xls
+local/*
+db.sqlite3
+mp/local_settings.py
+event_files/*
+!event_files/.gitkeep
